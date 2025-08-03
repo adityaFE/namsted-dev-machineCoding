@@ -1,0 +1,21 @@
+.card-detail {
+  border: 1px solid #ddd;
+  margin-bottom: 16px;
+  background-color: #efefef;
+  padding: 8px 24px;
+  border-radius: 8px;
+}
+
+.post-analytics {
+  display: flex;
+  flex-direction: row;
+}
+
+.tag-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.tag-item {
+  color: blue;
+}

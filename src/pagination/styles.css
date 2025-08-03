@@ -1,0 +1,30 @@
+.product-item {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  height: 250px;
+  width: 250px;
+  align-items: center;
+  text-align: center;
+}
+
+.product-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.active-button {
+  border: 2px solid blue;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container {
+  margin-bottom: 24px;
+}
