@@ -1,7 +1,7 @@
-import NestedCheckbox from "./nested-checkbox/NestedCheckbox";
+import ReadMoreToggle from "./read-more/ReadMoreToggle";
 
 const App = () => {
-  return <NestedCheckbox />;
+  return <ReadMoreToggle />;
 };
 
 export default App;
