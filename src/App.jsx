@@ -1,7 +1,7 @@
-import ReadMoreToggle from "./read-more/ReadMoreToggle";
+import GridLights from "./grid-lights/GridLights";
 
 const App = () => {
-  return <ReadMoreToggle />;
+  return <GridLights />;
 };
 
 export default App;
