@@ -1,7 +1,7 @@
-import GridLights from "./grid-lights/GridLights";
+import PasswordGenerator from "./password-generator/PasswordGenerator";
 
 const App = () => {
-  return <GridLights />;
+  return <PasswordGenerator />;
 };
 
 export default App;
